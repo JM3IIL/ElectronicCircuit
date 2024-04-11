@@ -3,6 +3,9 @@
 回路シミュレータ　LTSpice
 https://www.denshi.club/ltspice/2015/03/ltspice1.html
 
+計測
+https://www.yrl.com/column/tm/expert_electronic-measurement_03.html
+
 インピーダンス計測
 https://www.aps-web.jp/academy/ec/6501/
 
