@@ -6,6 +6,10 @@ https://www.denshi.club/ltspice/2015/03/ltspice1.html
 インピーダンス計測
 https://www.aps-web.jp/academy/ec/6501/
 
+Analog Devices Inc. ADALM
+https://www.mouser.jp/new/analog-devices/adi-adalm-pluto/
+
+
 software defined radio
 https://www.mouser.jp/pdfDocs/SDR4Engineers.pdf
 
