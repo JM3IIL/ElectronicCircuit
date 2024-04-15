@@ -22,3 +22,6 @@ https://ja.m.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3
 ターミナルブロック
 https://jp.cuidevices.com/blog/ultimate-guide-to-terminal-block-selection
 
+ベクトルネットワークアナライザ
+nanoVNA-H4
+
