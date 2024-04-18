@@ -24,6 +24,10 @@ https://neurois.hatenablog.com/entry/2023/10/01/232430
 デジタル制御安定化電源の自作！
 https://note.com/linux271828/n/nd80c92d47cb3
 
+2012年04月04日23:25 トランスを用いた自作ACアダブタ (正負電源出カ仕様)
+http://kirylabo.blog.fc2.com/blog-entry-90.html
+
+
 ### トランスレス
 AC100V整流回路
 https://bbradio.sakura.ne.jp/psupply05/psupply05.html
