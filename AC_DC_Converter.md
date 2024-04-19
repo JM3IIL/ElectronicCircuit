@@ -42,8 +42,6 @@ http://einstlab.web.fc2.com/Transless/Transless.html
 https://akizukidenshi.com/catalog/g/g107608/
 
 
-
-
 交流を直流に変換する「AC-DC電源」のきほん
 https://edn.itmedia.co.jp/edn/spv/1503/26/news002_2.html
 
@@ -52,4 +50,10 @@ https://www.rohm.co.jp/electronics-basics/ac-dc-converters/acdc_what4
 
 トランス方式
 https://techweb.rohm.co.jp/product/power-ic/acdc/6/
+
+# USB type-C PD
+
+はじめてのUSB [USB Type-C™ 及び Power Delivery規格入門]
+https://www.marubun.co.jp/technicalsquare/10483/
+
 
