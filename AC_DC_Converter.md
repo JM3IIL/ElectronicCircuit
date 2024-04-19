@@ -51,8 +51,15 @@ https://www.rohm.co.jp/electronics-basics/ac-dc-converters/acdc_what4
 トランス方式
 https://techweb.rohm.co.jp/product/power-ic/acdc/6/
 
-# USB type-C PD
+## 製品
+Jesverty 直流安定化電源スイッチング式 50A(MAX)、13.8V固定9-15V可変出力 - SPS-50II ￥22,999 
+https://www.amazon.co.jp/dp/B0B8N8JNS6/
 
+Naweisz 可変直流安定化電源 0-30V 0-10A - ‎NP3010H ￥8,597
+https://www.amazon.co.jp/dp/B07JC6XMZ2/
+
+## USB type-C PD
+### 規格
 はじめてのUSB [USB Type-C™ 及び Power Delivery規格入門]
 https://www.marubun.co.jp/technicalsquare/10483/
 
