@@ -7,6 +7,8 @@ https://toragi.cqpub.co.jp/Portals/0/backnumber/2013/05/p120.pdf
 
 https://opencadken.com/29
 
+https://note.com/akira_tsuchiya/n/nf92b2660cb8b
+
 circuitlab
 https://www.circuitlab.com/
 
