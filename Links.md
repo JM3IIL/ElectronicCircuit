@@ -9,6 +9,8 @@ https://opencadken.com/29
 
 https://note.com/akira_tsuchiya/n/nf92b2660cb8b
 
+https://flogics.com/wp/2022/03/spice-memorandum-for-non-electronics-engineers/
+
 circuitlab
 https://www.circuitlab.com/
 
