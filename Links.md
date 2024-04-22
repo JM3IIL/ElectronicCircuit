@@ -3,6 +3,10 @@
 回路シミュレータ　LTSpice
 https://www.denshi.club/ltspice/2015/03/ltspice1.html
 
+https://toragi.cqpub.co.jp/Portals/0/backnumber/2013/05/p120.pdf
+
+https://opencadken.com/29
+
 circuitlab
 https://www.circuitlab.com/
 
