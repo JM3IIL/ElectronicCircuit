@@ -1,19 +1,25 @@
 # 参考
-
+## LTspice
 回路シミュレータ　LTSpice
 https://www.denshi.club/ltspice/2015/03/ltspice1.html
 
-https://toragi.cqpub.co.jp/Portals/0/backnumber/2013/05/p120.pdf
-
-https://opencadken.com/29
-
+LTspiceで電子回路のお勉強：はじめに
 https://note.com/akira_tsuchiya/n/nf92b2660cb8b
 
+## KiCad
+回路シミュレータ「LTspice」と 基板設計CAD「KiCad」の連携
+https://toragi.cqpub.co.jp/Portals/0/backnumber/2013/05/p120.pdf
+
+KicadとLTspice（回路シミュレータ）の連携
+https://opencadken.com/29
+
+電子回路設計のプロでない人のための、回路シミュレータ備忘録
 https://flogics.com/wp/2022/03/spice-memorandum-for-non-electronics-engineers/
 
 circuitlab
 https://www.circuitlab.com/
 
+## 計測
 計測
 https://www.yrl.com/column/tm/expert_electronic-measurement_03.html
 
@@ -23,13 +29,13 @@ https://www.aps-web.jp/academy/ec/6501/
 Analog Devices Inc. ADALM
 https://www.mouser.jp/new/analog-devices/adi-adalm-pluto/
 
-
+## SDR
 software defined radio
 https://www.mouser.jp/pdfDocs/SDR4Engineers.pdf
 
 https://ja.m.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E7%84%A1%E7%B7%9A
 
-
+## ほか
 ターミナルブロック
 https://jp.cuidevices.com/blog/ultimate-guide-to-terminal-block-selection
 
