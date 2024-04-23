@@ -70,3 +70,17 @@ https://www.shiken.or.jp/guidance/pdf/73/file_nm01/ecee_r06_denkou2kamiki_zyuken
 https://note.com/smashbroskanu/n/n4d771c08f416
 
 https://genbaroo.com/article/hukusenzu/
+
+
+
+
+## Jw_cad
+単線結線図
+https://memo-labo.com/jwcad.php
+
+配線の引き方
+https://softlink1.com/column/jwcad-practice-3/
+
+JWCADを使って電気図面を作成する方法を紹介！
+https://www.pluscad.jp/howto/1117/
+
