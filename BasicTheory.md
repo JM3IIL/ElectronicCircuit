@@ -32,3 +32,34 @@ https://sakamoto-tt.sakura.ne.jp/wordpress/wp-content/uploads/2013/07/e4af4a5f72
 全電流 II+ (A) [V (0) [2] 
 力率 cos 
 電力 P= VIcos 0 = IR = VIR (W
+
+
+## コンデンサ(キャパシタ)
+平行板コンデンサ
+電極板の面積を A、電極板の間隔を d とすると、
+静電容量
+
+𝐶　≃
+𝜖
+𝐴
+𝑑
+{\displaystyle C\simeq {\frac {\epsilon A}{d}}}
+で近似される。 
+比例係数 ε は電極板間を絶縁する誘電体の誘電率。
+この近似が成り立つには電極板の間隔 d が充分に小さい（
+𝑑
+≪
+𝐴
+{\displaystyle d\ll {\sqrt {A}}}）
+という条件が必要。
+あるいは電極板の面積 A が充分に大きい（
+𝐴
+≫
+𝑑
+2
+{\displaystyle A\gg d^{2}}）
+という条件が必要。
+
+
+
+
