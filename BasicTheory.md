@@ -60,6 +60,13 @@ https://sakamoto-tt.sakura.ne.jp/wordpress/wp-content/uploads/2013/07/e4af4a5f72
 {\displaystyle A\gg d^{2}}）
 という条件が必要。
 
+カップリング = DCブロッキングキャパシタ
+デカップリング = バイパスコンデンサ : 直流電源の電圧が変動するのを避けるために、電源ラインとグラウンドとを接続するコンデンサ
+
+
+https://industrial.panasonic.com/jp/ss/technical/b3
+
+
 
 
 
