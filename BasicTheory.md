@@ -50,6 +50,9 @@ https://detail-infomation.com/rl-parallel-circuit-impedance/
 
 
 # 基本素子
+
+https://ja.m.wikibooks.org/wiki/%E9%9B%BB%E6%B0%97%E5%9B%9E%E8%B7%AF%E7%90%86%E8%AB%96/%E5%9B%9E%E8%B7%AF%E7%B4%A0%E5%AD%90
+
 ## 抵抗(レジスタ)
 $$R = \frac{V}{I}$$
 
