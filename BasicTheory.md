@@ -49,8 +49,9 @@ $$V = I_{R}R [V] , V = I_{L}X_{L} [V]$$
 https://detail-infomation.com/rl-parallel-circuit-impedance/
 
 
-# 基本
+# 基本素子
 ## 抵抗(レジスタ)
+$$R = \frac{V}{I}$$
 
 ## コンデンサ(キャパシタ)
 平行板コンデンサ
