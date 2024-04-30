@@ -44,7 +44,7 @@ $$V = I_{R}R [V] , V = I_{L}X_{L} [V]$$
 インピーダンス $Z = \frac{RL}{\sqrt{R^{2} + {X_{L}}^{2}}}$ [Ω]
 全電流 $I = \sqrt{{I_{R}}^{2} + {I_{L}}^{2}}$ [A] 
 力率 $cos θ = \frac{I_{R}}{I} = \frac{I_{R}}{\sqrt{{I_{R}}^{2} + {I_{L}}^{2}}}$
-電力 $P= VIcos 0 = {I_{R}}^{2}R = VI_{R}$ [W]
+電力 $P= VIcos θ = {I_{R}}^{2}R = VI_{R}$ [W]
 
 https://detail-infomation.com/rl-parallel-circuit-impedance/
 
@@ -55,28 +55,12 @@ https://detail-infomation.com/rl-parallel-circuit-impedance/
 ## コンデンサ(キャパシタ)
 平行板コンデンサ
 電極板の面積を A、電極板の間隔を d とすると、
-静電容量
-
-𝐶　≃
-𝜖
-𝐴
-𝑑
-{\displaystyle C\simeq {\frac {\epsilon A}{d}}}
-で近似される。 
-比例係数 ε は電極板間を絶縁する誘電体の誘電率。
+静電容量 $C ≃ \frac{εA}{d}$
+比例係数 ε (epsilon)は電極板間を絶縁する誘電体の誘電率。
 この近似が成り立つには電極板の間隔 d が充分に小さい（
-𝑑
-≪
-𝐴
-{\displaystyle d\ll {\sqrt {A}}}）
-という条件が必要。
+$𝑑 ≪ \sqrt{A}$
 あるいは電極板の面積 A が充分に大きい（
-𝐴
-≫
-𝑑
-2
-{\displaystyle A\gg d^{2}}）
-という条件が必要。
+$𝐴 ≫ 𝑑^{2}$という条件が必要。
 
 カップリング = DCブロッキングキャパシタ
 デカップリング = バイパスコンデンサ : 直流電源の電圧が変動するのを避けるために、電源ラインとグラウンドとを接続するコンデンサ
