@@ -1,8 +1,12 @@
 # 基礎理論
-## ホイートストンブリッジ
+## Wheatstone bridge : ホイートストンブリッジ
 https://wakariyasui.sakura.ne.jp/p/elec/kairo/hoi-to.html
 
 ## キルヒホッフの法則
+電流則 : キルヒホッフの第1法則(Kirchhoff's current law : KCL)
+回路網中の任意の接続点に流出入する電流の和は0である
+電圧則 : キルヒホッフの第2法則(Kirchhoff's voltage law : KVL)
+回路網中の任意の閉路を一巡するとき、起電力の総和と電圧降下の総和は等しい
 https://wakariyasui.sakura.ne.jp/p/elec/kairo/kiruhi.html
 
 
@@ -17,22 +21,36 @@ https://article.murata.com/ja-jp/article/basics-of-capacitors-7
 https://sakamoto-tt.sakura.ne.jp/wordpress/wp-content/uploads/2013/07/e4af4a5f72b3b86a1d6ec788ae8b7a8d.pdf
 
 
-# 单相交流回路
+# 単相交流回路
 
 ## 抵抗と誘導性リアクタンスの直列回路
-電圧 VVV+(V) I(A) 一 Z=R+X [2] V=IR (V (V) V=IX (V) R-X
-インピーダンス
-直列回路 I (A) V 
-電流 == [A] R 
-力率 cos 一 R+X 
-電力 P= VIcos W 
+単相交流電源に、負荷RとコイルLが直列
+(負荷Rの抵抗はR [Ω]、コイルLのリアクタンスは $X_{L}$ [Ω])
+$$V_{R} = IR [V] , V_{L} = IX_{L} [V]$$
+
+電圧 $V = \sqrt{{V_{R}}^{2} + {V_{L}}^{2}}$ [V]
+インピーダンス $Z = \sqrt{R^{2} + {X_{L}}^{2}}$ [Ω]
+電流 $I = \frac{V}{Z} = \frac{V}{\sqrt{{V_{R}}^{2} + {V_{L}}^{2}}}$ [A] 
+力率 $cos θ = \frac{R}{Z} = \frac{R}{\sqrt{{V_{R}}^{2} + {V_{L}}^{2}}}$ 
+電力 $P= VI cos θ$ [W] 
+
+https://detail-infomation.com/rl-series-circuit-impedance/
 
 ## 抵抗と誘導性リアクタンスの並列回路
-1=(A) IL=(A] I (A) [A] 
-全電流 II+ (A) [V (0) [2] 
-力率 cos 
-電力 P= VIcos 0 = IR = VIR (W
+単相交流電源に、負荷RとコイルLが並列
+(負荷Rの抵抗はR [Ω]、コイルLのリアクタンスは $X_{L}$ [Ω])
+$$V = I_{R}R [V] , V = I_{L}X_{L} [V]$$
 
+インピーダンス $Z = \frac{RL}{\sqrt{R^{2} + {X_{L}}^{2}}}$ [Ω]
+全電流 $I = \sqrt{{I_{R}}^{2} + {I_{L}}^{2}}$ [A] 
+力率 $cos θ = \frac{I_{R}}{I} = \frac{I_{R}}{\sqrt{{I_{R}}^{2} + {I_{L}}^{2}}}$
+電力 $P= VIcos 0 = {I_{R}}^{2}R = VI_{R}$ [W]
+
+https://detail-infomation.com/rl-parallel-circuit-impedance/
+
+
+# 基本
+## 抵抗(レジスタ)
 
 ## コンデンサ(キャパシタ)
 平行板コンデンサ
@@ -68,5 +86,5 @@ https://industrial.panasonic.com/jp/ss/technical/b3
 
 
 
-
+## コイル(インダクタ)
 
