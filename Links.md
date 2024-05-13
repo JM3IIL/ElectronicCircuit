@@ -4,6 +4,8 @@
 circuitlab
 https://www.circuitlab.com/
 
+https://qiita.com/exabugs/items/5bfb3a575ce05bb6cbde
+
 ## 計測
 計測
 https://www.yrl.com/column/tm/expert_electronic-measurement_03.html
