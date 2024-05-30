@@ -58,6 +58,18 @@ https://www.amazon.co.jp/dp/B0B8N8JNS6/
 Naweisz 可変直流安定化電源 0-30V 0-10A - ‎NP3010H ￥8,597
 https://www.amazon.co.jp/dp/B07JC6XMZ2/
 
+## キット
+
+最大24V出力 昇圧型スイッチング電源モジュール LMR62421使用キット
+https://akizukidenshi.com/catalog/g/g107608/
+
+ISL97519A使用可変昇圧電源キット
+https://akizukidenshi.com/catalog/g/g104377/
+
+
+
+
+
 ## USB type-C PD
 ### 規格
 はじめてのUSB [USB Type-C™ 及び Power Delivery規格入門]
