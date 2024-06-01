@@ -37,6 +37,12 @@ https://www.hakko.com/japan/products/hakko_red.html
 
 セラミックヒータ(温度調節)
 FX600-01 	2極接地型プラグ 	\8,030 (\5,191)
+https://www.hakko.com/japan/products/hakko_fx600_set.html
+
+太陽(Goot)
+セラミックヒータ(温度調節)
+PX-201 ¥6,160 (\3,704)
+https://www.goot.jp/products/detail/px_201
 
 ## ほか
 ターミナルブロック
