@@ -9,5 +9,12 @@ https://www.vessel.co.jp/btob/knowledge/4462.html
 https://www.keyence.co.jp/ss/products/static/static-electricity/electrification/
 
 
+2つの帯電した点電荷を、Q1[C]、Q2[C]として、それらの距離がr[m]あるとすると、相互に働く力F[N]は、 F=k+ Q1xQ2 r2
+Fが正のときは反発力、負となったときは吸引力
+また、kは比例定数で、点電荷の置かれた場所や相互間の絶縁物の種 類・条件など媒質によって決まる。 
+媒質が真空中のとき 
+k= 4πε0
+ε0は真空中における誘電率
+ε0=8.854 × 10-12 [F/m] (ファラド毎メートル) と決まった値。 
 
 
