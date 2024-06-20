@@ -29,6 +29,8 @@ e=-nΔΦ/Δt
 
 L=La+Lb+2M [H]
 
+磁性
+https://ja.wikipedia.org/wiki/%E7%A3%81%E6%80%A7
 
 東京工業大学
 2019年度　電磁気学第一   Electricity and Magnetism I
