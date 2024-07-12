@@ -14,22 +14,42 @@ https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%94%E3%83%BC%E3%83%80%E3%8
 
 インダクタンス=誘導起電力　コイルの係数
 
+# 合成インピーダンス
+交流周波数 f [Hz]
+抵抗 R [Ω]
+インダクタンス L [H]
+誘導性リアクタンス $` X_{L} [Ω] = 2πfL `$
+静電容量 C [F]
+容量性リアクタンス $` X_{C} [Ω] = \frac{1}{2πfC} `$
+
 ## RL直列回路
 $$
-Z[Ω] = \sqrt{ R^2 + X_{L}^2} = \sqrt{ R^2 + (2πfL)^2}
+Z [Ω] = \sqrt{R^2 + X_{L}^2} = \sqrt{ R^2 + (2πfL)^2}
 $$
 
 ## RC直列回路
 $$
-Z[Ω] = \sqrt{ R^2 + X_{C}^2} = \sqrt{ R^2 + (\frac{1}{2πfC})^2}
+Z [Ω] = \sqrt{R^2 + X_{C}^2} = \sqrt{ R^2 + (\frac{1}{2πfC})^2}
 $$
 
 ## RLC直列回路
 $$
-Z[Ω] = \sqrt{ R^2 + (X_{L}^2 - X_{C}^2)} = \sqrt{ R^2 + (2πfL - \frac{1}{2πfC})^2}
+Z [Ω] = \sqrt{R^2 + (X_{L}^2 - X_{C}^2)} = \sqrt{ R^2 + (2πfL - \frac{1}{2πfC})^2}
 $$
 
 ## RL並列回路
 $$
-Z[Ω] = \frac{1}{\sqrt{(\frac{1}{R})^2+(\frac{1}{X_{L}})^2}}
+Z [Ω] = \frac{1}{\sqrt{(\frac{1}{R})^2 + (\frac{1}{X_{L}})^2}} = \frac{1}{\sqrt{(\frac{1}{R})^2 + (\frac{1}{2πfL})^2}}
 $$
+
+## RC並列回路
+$$
+Z [Ω] = \frac{1}{\sqrt{(\frac{1}{R})^2 + (X_{C})^2}} = \frac{1}{\sqrt{(\frac{1}{R})^2 + (2πfC)^2}}
+$$
+
+## RLC並列回路
+$$
+Z [Ω] = \frac{1}{\sqrt{(\frac{1}{R})^2 + (\frac{1}{X_{L}} - X_{C})^2}} = \frac{1}{\sqrt{(\frac{1}{R})^2 + (\frac{1}{2πfL} - 2πfC)^2}}
+$$
+
+
