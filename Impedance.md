@@ -53,3 +53,7 @@ Z [Ω] = \frac{1}{\sqrt{(\frac{1}{R})^2 + (\frac{1}{X_{L}} - X_{C})^2}} = \frac{
 $$
 
 
+# 測定
+インピーダンスをできるだけ正確に測定する方法
+https://www.aps-web.jp/academy/ec/6501/
+
