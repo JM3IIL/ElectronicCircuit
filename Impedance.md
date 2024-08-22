@@ -5,6 +5,9 @@ https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%94%E3%83%BC%E3%83%80%E3%8
 
 [基礎理論](./BasicTheory.md)
 
+インピーダンスとは何？ 抵抗やリアクタンスとの違いも解説
+2024.06.05
+https://techweb.rohm.co.jp/product/power-device/si/15939/
 
 用語
 
