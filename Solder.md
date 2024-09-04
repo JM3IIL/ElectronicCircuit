@@ -20,5 +20,7 @@ https://oem-ems-partners.com/column/1157/
 超初心者向けプリント基板の基礎知識：表面処理
 https://www.meiko-elec.com/labo/blog/646
 
-
+## レジスト
+レジストのお話
+https://unicraft-jp.com/article/resist.shtml
 
