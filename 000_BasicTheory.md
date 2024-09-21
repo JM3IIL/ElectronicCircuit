@@ -41,7 +41,7 @@ https://detail-infomation.com/rl-series-circuit-impedance/
 (負荷Rの抵抗はR [Ω]、コイルLのリアクタンスは $X_{L}$ [Ω])
 $$V = I_{R}R [V] , V = I_{L}X_{L} [V]$$
 
-インピーダンス $Z = \frac{RL}{\sqrt{R^{2} + {X_{L}}^{2}}}$ [Ω]
+インピーダンス $Z = \frac{RX_{L}}{\sqrt{R^{2} + {X_{L}}^{2}}}$ [Ω]
 全電流 $I = \sqrt{{I_{R}}^{2} + {I_{L}}^{2}}$ [A] 
 力率 $cos θ = \frac{I_{R}}{I} = \frac{I_{R}}{\sqrt{{I_{R}}^{2} + {I_{L}}^{2}}}$
 電力 $P= VIcos θ = {I_{R}}^{2}R = VI_{R}$ [W]
