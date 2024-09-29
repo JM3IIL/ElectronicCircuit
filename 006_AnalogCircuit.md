@@ -28,3 +28,6 @@ LC発振回路
 
 ## 復調回路
 
+
+# 参考
+[石井聡の回路設計WEBラボ](https://www.analog.com/jp/lp/003/jp-web-lab.html)
