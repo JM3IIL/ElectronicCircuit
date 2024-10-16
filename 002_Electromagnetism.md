@@ -36,4 +36,8 @@ https://ja.wikipedia.org/wiki/%E7%A3%81%E6%80%A7
 2019年度　電磁気学第一   Electricity and Magnetism I
 https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=2&GakkaCD=321700&KeiCD=17&KougiCD=201902026&Nendo=2019&lang=JA&vid=05
 
+日本財団　船舶電装業　電気工学の基礎
+https://nippon.zaidan.info/seikabutsu/2002/00396/mokuji.htm
+
+
 
