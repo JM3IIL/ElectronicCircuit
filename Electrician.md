@@ -72,6 +72,16 @@ https://note.com/smashbroskanu/n/n4d771c08f416
 https://genbaroo.com/article/hukusenzu/
 
 
+## 技能試験難易度
+
+2024年度版！難易度別！第二種電気工事士実技試験の候補問題
+https://denkou-dokugaku.com/kouho-mondai/
+
+【第二種電気工事士】技能試験の候補問題13問の数値化による難易度ランキング
+https://rikiritsu.com/entry/denko2-difficulty-ranking
+
+HOZAN【技能】候補問題何回練習した？一番難しい候補問題は？過去の受験者に聞いてみた！
+https://www.hozan.co.jp/corp/denko2/pg/1column09/
 
 
 ## Jw_cad
