@@ -83,6 +83,22 @@ https://rikiritsu.com/entry/denko2-difficulty-ranking
 HOZAN【技能】候補問題何回練習した？一番難しい候補問題は？過去の受験者に聞いてみた！
 https://www.hozan.co.jp/corp/denko2/pg/1column09/
 
+|難易度(難↓易)|資格独学ブログ|独学電気工事士|HOZAN|(平均？)|
+|--:|:--|:--|:--|:--|
+|1|No5|No11|No7|No11|
+|2|No1|No8|No11|No7|
+|3|No12|No4|No8|No10|
+|4|No10|No12|No10|No8|
+|5|No7|No10|No4|No4|
+|6|No4|No7|No1|No12|
+|7|No2|No5|No9|No1|
+|8|No11|No2|No6|No5|
+|9|No8|No1|No12|No2|
+|10|No3|No13|No5|No6|
+|11|No6|No9|No13|No9|
+|12|No13|No6|No2|No13|
+|13|No9|No3|No3|No3|
+
 
 ## Jw_cad
 単線結線図
