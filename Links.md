@@ -20,6 +20,11 @@ Analog Devices Inc. ADALM
 ADALM-PLUTOアクティブラーニングモジュール 
 https://www.mouser.jp/new/analog-devices/adi-adalm-pluto/
 
+
+## 実習
+ADALM2000による実習：エンベロープ・ディテクタ
+https://www.analog.com/jp/resources/analog-dialogue/studentzone/studentzone-september-2024.html
+
 ## SDR
 software defined radio
 https://www.mouser.jp/pdfDocs/SDR4Engineers.pdf
