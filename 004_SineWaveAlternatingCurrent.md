@@ -39,6 +39,7 @@ https://eleking.net/k21/k21t/k21t-sinewave.html
 (8)共振回路の尖悦度
 
 
-
-
+## 実効値
+RMS (Root Mean Square)二乗平均平方根
+https://imaginary-blog-im.com/rms/
 
