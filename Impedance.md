@@ -36,6 +36,8 @@ $` j^2 = -1 `$
 - 静電容量 C [F]
 - 容量性リアクタンス $` X_{C} [Ω] = \frac{1}{2πfC} `$
 
+https://www2.panasonic.biz/jp/basics/electric/electricity/impedance/
+
 ## 複素数表示
 - 虚数 j
 - 角速度 ω(オメガ) [rad/s]
