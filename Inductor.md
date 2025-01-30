@@ -42,6 +42,9 @@ $B = μH$
 $L= μN^2S/d [H]$
 $L = μ_0 μ_r N^2 S/d [H]$
 
+ コイルの蓄えるエネルギー 
+$U = \frac{1}{2}LI^2 [J] [Ws]$
+
 https://industrial.panasonic.com/jp/ss/technical/b5
 
 https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%80%E3%82%AF%E3%82%BF
