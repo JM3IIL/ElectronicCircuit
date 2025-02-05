@@ -22,7 +22,14 @@ https://garretlab.web.fc2.com/arduino.cc/docs/language-reference/
 京都大学 学術情報メディアセンター「Arduino をはじめよう＠KYOTO-U」
 https://ocw.kyoto-u.ac.jp/wp-content/uploads/2021/04/2019_Physical-Computing.pdf
 
+PUREYES UNO R3編 速習キット【学習教材】v123.pdf
+https://www.pureyes.net/download/manual1/
 
+PUREYES UNO R3速習キット　スケッチ
+https://www.pureyes.net/download/unor3%e9%80%9f%e7%bf%92%e3%82%ad%e3%83%83%e3%83%88%e3%80%80%e3%82%b9%e3%82%b1%e3%83%83%e3%83%81/
+
+九州工業大学 「ArduinoIO （操作マニュアル）」
+https://dynamicbrain.neuroinf.jp/database/file/1657/ArduinoIO_Manual.pdf
 
 株式会社 イーケイジャパン 「エレキット ピカ・タワー AW-86」Arduinoマニュアル
 https://www.elekit.co.jp/product/docs/Arduino%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB.pdf
