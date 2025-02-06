@@ -52,3 +52,7 @@ https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%80%E3%82%AF%E3%82%BF
 https://ja.wikipedia.org/wiki/%E9%80%8F%E7%A3%81%E7%8E%87
 
 https://ja.wikipedia.org/wiki/E-B%E5%AF%BE%E5%BF%9C%E3%81%A8E-H%E5%AF%BE%E5%BF%9C
+
+## 和動接続・差動接続
+https://denken-ou.com/rironh29-3/
+
