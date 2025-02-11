@@ -95,3 +95,4 @@ https://industrial.panasonic.com/jp/ss/technical/b3
 
 ## コイル(インダクタ)
 
+https://industrial.panasonic.com/jp/ss/technical/b5
