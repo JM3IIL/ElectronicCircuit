@@ -29,5 +29,10 @@ N型半導体 Negative Semiconductor
 
 
 
+オペアンプ
+https://ja.m.wikipedia.org/wiki/%E3%82%AA%E3%83%9A%E3%82%A2%E3%83%B3%E3%83%97
+
+3端子レギュレータ
+https://ja.m.wikipedia.org/wiki/%E4%B8%89%E7%AB%AF%E5%AD%90%E3%83%AC%E3%82%AE%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF
 
 
