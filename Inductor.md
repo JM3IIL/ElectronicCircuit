@@ -63,3 +63,5 @@ https://ja.wikipedia.org/wiki/E-B%E5%AF%BE%E5%BF%9C%E3%81%A8E-H%E5%AF%BE%E5%BF%9
 ## 和動接続・差動接続
 https://denken-ou.com/rironh29-3/
 
+[(渦電流)](EddyCurrent.md)
+[交流](AC_Inductor.md)
