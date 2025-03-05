@@ -22,7 +22,7 @@ Q(クーロン)
 [C]=[A・s]
 
 
-- エネルギー W [J]
+- コイルの蓄えるエネルギー W [J][Ws]
 - インダクタンス L [H]
 - 電流 I [A]
 
@@ -41,16 +41,13 @@ $B = μH$
 比透磁率 $μ_r = μ / μ_0$
 
 
-- コイルの芯の透磁率 $μ [H/m]$
 - コイルの巻数 $N [回]$
-- コイルの長さ $d [m]$
+- コイルの長さ $l [m]$
 - コイルの断面積 $S [m^2]$
 
-$L = μN^2S/d [H]$
-$L = μ_0 μ_r N^2 S/d [H]$
+$L = μ_0 μ_r N^2 S/l [H]$
 
- コイルの蓄えるエネルギー 
-$U = \frac{1}{2}LI^2 [J] [Ws]$
+
 
 https://industrial.panasonic.com/jp/ss/technical/b5
 
@@ -65,3 +62,5 @@ https://denken-ou.com/rironh29-3/
 
 [(渦電流)](EddyCurrent.md)
 [交流](AC_Inductor.md)
+
+
