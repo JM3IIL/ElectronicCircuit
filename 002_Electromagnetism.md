@@ -84,5 +84,14 @@ $F = \frac{m_1m_2}{4πμ_0r^2}$
 $H = \frac{m}{4πμ_0r^2}$
 
 
+## 磁化
+### ヒステリシスループ
+hysteresis loop
+https://www.sii.co.jp/jp/me/dianet/support/hysteresis-loop/
+https://detail-infomation.com/hysteresis-loss/
+https://detail-infomation.com/hysteresis-curve/
 
+- ヒステリシス損は、ヒステリシスループに囲まれた部分の面積に比例
+- 硬磁性材料・ハード磁性材料 : (保磁力HCが大きい磁性体) 永久磁石に適している
+- 軟磁性材料・ソフト磁性材料 : (残留磁束密度Brが大きく、保磁力HCが小さい磁性体) 電磁石に適している
 
