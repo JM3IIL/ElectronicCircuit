@@ -8,3 +8,7 @@
 - [スイッチング素子](SwitchingElement.md)
 
 - [過渡現象](TransientPhenomena.md)
+
+- [はんだ](Solder.md)
+
+
