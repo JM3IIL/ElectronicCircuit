@@ -13,12 +13,15 @@
 - [コンデンサ](Capacitor.md)
 - [コンデンサ交流](AC_Capacitor.md)
 
+- [発電機](ElectricPowerGenerator.md)
+
 - [オペアンプ](OperationalAmplifier.md)
 - [過渡現象](TransientPhenomena.md)
 - [等価回路](EquivalentCircuit.md)
 - [共振回路](ResonantCircuit.md)
 
 - [はんだ](Solder.md)
+
 
 その他
 - [電気工事士](Electrician.md)
