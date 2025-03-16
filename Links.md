@@ -1,12 +1,4 @@
 # 参考
-## LTspice KiCad系
-
-circuitlab
-https://www.circuitlab.com/
-
-LTspice の使い方
-https://qiita.com/exabugs/items/5bfb3a575ce05bb6cbde
-
 ## 計測
 計測
 マルチメーターを使いこなす 
