@@ -15,7 +15,7 @@
 
 - [発電機](ElectricPowerGenerator.md)
 - [渦電流](EddyCurrent.md)
-
+- [交流直流変換](AC_DC_Converter.md)
 - [オペアンプ](OperationalAmplifier.md)
 - [過渡現象](TransientPhenomena.md)
 - [等価回路](EquivalentCircuit.md)
