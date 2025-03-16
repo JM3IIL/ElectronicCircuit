@@ -1,5 +1,14 @@
 # オペアンプ
 
+### 反転増幅回路
+https://detail-infomation.com/inverting-amplifier-circuit/
+
+### 非反転増幅回路
+https://detail-infomation.com/non-inverting-amplifier-circuit/
+
+
+
+## リンク
 ROHM オペアンプ（演算増幅器）の種類
 https://www.rohm.co.jp/electronics-basics/opamps/op_what12
 
