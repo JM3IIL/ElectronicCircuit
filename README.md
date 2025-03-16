@@ -14,4 +14,7 @@
 
 - [はんだ](Solder.md)
 
+その他
+- [リンク](Links.md)
+- [その他](Misc.md)
 
