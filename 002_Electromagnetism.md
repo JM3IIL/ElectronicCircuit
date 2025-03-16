@@ -69,7 +69,7 @@ https://nippon.zaidan.info/seikabutsu/2002/00396/mokuji.htm
 ## 磁界・磁束・磁束密度
 - 磁界 $H [A/m]$
 - 磁束 $φ [Wb] [Tm^2]$
-- 磁束密度 $B [T}$ 
+- 磁束密度 $B [T]$ 
 - 透磁率 $μ [H/m]$
 - 面積(磁束の通過する) $S [m^2]$
 
