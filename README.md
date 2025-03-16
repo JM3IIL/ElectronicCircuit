@@ -14,6 +14,7 @@
 - [コンデンサ交流](AC_Capacitor.md)
 
 - [発電機](ElectricPowerGenerator.md)
+- [渦電流](EddyCurrent.md)
 
 - [オペアンプ](OperationalAmplifier.md)
 - [過渡現象](TransientPhenomena.md)
