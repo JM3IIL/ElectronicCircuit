@@ -15,12 +15,13 @@
 
 - [オペアンプ](OperationalAmplifier.md)
 - [過渡現象](TransientPhenomena.md)
-- [等価回路](EquivalentCircuit.md}
+- [等価回路](EquivalentCircuit.md)
 - [共振回路](ResonantCircuit.md)
 
 - [はんだ](Solder.md)
 
 その他
+- [電気工事士](Electrician.md)
 - [リンク](Links.md)
 - [その他](Misc.md)
 
