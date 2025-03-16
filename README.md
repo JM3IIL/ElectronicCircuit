@@ -7,6 +7,7 @@
 - [トランジスタ](Transistor.md)
 - [スイッチング素子](SwitchingElement.md)
 
+- [オペアンプ](OperationalAmplifier.md)
 - [過渡現象](TransientPhenomena.md)
 - [共振回路](ResonantCircuit.md)
 - 
