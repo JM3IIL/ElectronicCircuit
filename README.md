@@ -4,6 +4,8 @@
 
 - [テブナンの定理](Thévenin'sTheorem.md)
 
+- [インピーダンス](Impedance.md)
+
 - [トランジスタ](Transistor.md)
 - [スイッチング素子](SwitchingElement.md)
 
@@ -11,6 +13,7 @@
 - [過渡現象](TransientPhenomena.md)
 - [共振回路](ResonantCircuit.md)
 - [コイル](Inductor.md)
+
 
 - [はんだ](Solder.md)
 
