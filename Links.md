@@ -32,22 +32,6 @@ https://www.mouser.jp/pdfDocs/SDR4Engineers.pdf
 ソフトウェア無線
 https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E7%84%A1%E7%B7%9A
 
-## ハンダ
-はんだ付けblog
-https://godhanda.co.jp/blog/kisokouza01/
-
-白光
-RED(ニクロムヒータ)
-https://www.hakko.com/japan/products/hakko_red.html
-
-セラミックヒータ(温度調節)
-FX600-01 	2極接地型プラグ 	\8,030 (\5,191)
-https://www.hakko.com/japan/products/hakko_fx600_set.html
-
-太陽(Goot)
-セラミックヒータ(温度調節)
-PX-201 ¥6,160 (\3,704)
-https://www.goot.jp/products/detail/px_201
 
 ## ほか
 ターミナルブロック
