@@ -3,7 +3,11 @@
 電子回路
 
 - [テブナンの定理](Thévenin'sTheorem.md)
+- [ミルマンの定理](102_MillmansTheorem.md)
+- [キルヒホッフの法則](103_KirchhoffsLaw.md)
 
+
+- [Δ-Y変換](101_DeltaStarTransform.md)
 - [インピーダンス](Impedance.md)
 
 - [トランジスタ](Transistor.md)
