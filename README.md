@@ -23,6 +23,9 @@
 
 - [はんだ](Solder.md)
 
+回路設計
+- [回路設計](CircuitDesign.md)
+- [LTspice](LTspice.md)
 
 その他
 - [電気工事士](Electrician.md)
