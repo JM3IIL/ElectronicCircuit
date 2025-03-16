@@ -15,6 +15,7 @@
 
 - [オペアンプ](OperationalAmplifier.md)
 - [過渡現象](TransientPhenomena.md)
+- [等価回路](EquivalentCircuit.md}
 - [共振回路](ResonantCircuit.md)
 
 - [はんだ](Solder.md)
