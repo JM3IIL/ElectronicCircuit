@@ -8,12 +8,14 @@
 
 - [トランジスタ](Transistor.md)
 - [スイッチング素子](SwitchingElement.md)
+- [コイル](Inductor.md)
+- [コイル交流](AC_Inductor.md)
+- [コンデンサ](Capacitor.md)
+- [コンデンサ交流](AC_Capacitor.md)
 
 - [オペアンプ](OperationalAmplifier.md)
 - [過渡現象](TransientPhenomena.md)
 - [共振回路](ResonantCircuit.md)
-- [コイル](Inductor.md)
-
 
 - [はんだ](Solder.md)
 
