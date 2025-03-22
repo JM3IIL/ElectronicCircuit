@@ -6,7 +6,7 @@ https://engineer-climb.com/opamp-application/
 https://detail-infomation.com/inverting-amplifier-circuit/
 反転入力端子に信号源、非反転端子端子が接地
 
-$V_{out} = -\frac{R_2}{R_1}V_{IN}$
+$V_{out} = -\frac{R_2}{R_1} V_{in}$
 
 - $V_{-} = V_{+}$
 - $V_{-}$に電流は流れない → $I_1 = I_2$
@@ -16,12 +16,16 @@ $V_{out} = -\frac{R_2}{R_1}V_{IN}$
 https://detail-infomation.com/non-inverting-amplifier-circuit/
 非反転入力端子に信号源、反転端子端子が接地
 
-$V_{out} = (1+\frac{R_2}{R_1})V_{IN}$
+$V_{out} = (1+\frac{R_2}{R_1}) V_{in}$
 
 - $V_{-} = V_{+}$
 - $V_{-}$に電流は流れない
-- $V_{+} = V_{IN}$
+- $V_{+} = V_{in}$
 
+
+
+### 増幅度
+$E_{out} = \frac{R_1 + R_2}{R_1} E_{in}$
 
 ## リンク
 ROHM オペアンプ（演算増幅器）の種類
