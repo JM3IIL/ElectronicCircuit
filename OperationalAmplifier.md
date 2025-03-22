@@ -27,6 +27,11 @@ $V_{out} = (1+\frac{R_2}{R_1}) V_{in}$
 ### 増幅度
 $E_{out} = \frac{R_1 + R_2}{R_1} E_{in}$
 
+https://electronic-circuit.com/opamp-inv-amplifier/
+
+https://analogista.jp/opamp-basic/
+
+
 ## リンク
 ROHM オペアンプ（演算増幅器）の種類
 https://www.rohm.co.jp/electronics-basics/opamps/op_what12
