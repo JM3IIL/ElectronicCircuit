@@ -39,6 +39,7 @@
 
 - [はんだ](Solder.md)
 - [ブレッドボード](BreadBoard.md)
+- [ロジックアナライザ](LogicAnalyzer.md)
 
 回路設計
 - [回路設計](CircuitDesign.md)
