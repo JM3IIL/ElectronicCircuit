@@ -31,6 +31,7 @@
 - [アナログ回路](006_AnalogCircuit.md)
 - [過渡現象](TransientPhenomena.md)
 - [電力増幅回路](PowerAmplifierCircuit.md)
+- [発振回路](OscillationCircuit.md)
 - [オペアンプ](OperationalAmplifier.md)
 - [等価回路](EquivalentCircuit.md)
 - [共振回路](ResonantCircuit.md)
