@@ -1,4 +1,4 @@
-# 部品
+す# 部品
 ## トランジスタ
 2SC1815
 
@@ -7,7 +7,7 @@
 ## IC
 NE555
 https://ja.wikipedia.org/wiki/555_%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC
-[NE555](../AmateurRadio/NE555.md)
+[NE555](https://github.com/JM3IIL/AmateurRadio/NE555.md)
 
 秋月電子 2025/01 \30-
 https://akizukidenshi.com/catalog/g/g114051/
