@@ -7,6 +7,8 @@
 ## IC
 NE555
 https://ja.wikipedia.org/wiki/555_%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC
+[NE555](../AmateurRadio/NE555.md)
+
 秋月電子 2025/01 \30-
 https://akizukidenshi.com/catalog/g/g114051/
 
@@ -18,3 +20,12 @@ LM358
 
 OP-07
 https://www.marutsu.co.jp/pc/i/2583108/
+
+7805
+
+TL431
+
+TA48033S
+https://araisun.com/how-to-use-3-terminal-regulator.html
+
+
