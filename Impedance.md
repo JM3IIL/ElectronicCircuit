@@ -73,12 +73,12 @@ $$
 
 ## RC並列回路
 $$
-Z [Ω] = \frac{1}{\sqrt{(\frac{1}{R})^2 + (X_{C})^2}} = \frac{1}{\sqrt{(\frac{1}{R})^2 + (2πfC)^2}}
+Z [Ω] = \frac{1}{\sqrt{(\frac{1}{R})^2 + (\frac{1}{X_{C}})^2}} = \frac{1}{\sqrt{(\frac{1}{R})^2 + (2πfC)^2}}
 $$
 
 ## RLC並列回路
 $$
-Z [Ω] = \frac{1}{\sqrt{(\frac{1}{R})^2 + (\frac{1}{X_{L}} - X_{C})^2}} = \frac{1}{\sqrt{(\frac{1}{R})^2 + (\frac{1}{2πfL} - 2πfC)^2}}
+Z [Ω] = \frac{1}{\sqrt{(\frac{1}{R})^2 + (\frac{1}{X_{L}} - \frac{1}{X_{C}})^2}} = \frac{1}{\sqrt{(\frac{1}{R})^2 + (\frac{1}{2πfL} - 2πfC)^2}}
 $$
 
 
