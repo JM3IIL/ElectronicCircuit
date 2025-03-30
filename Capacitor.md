@@ -59,3 +59,7 @@ $U = 1/2CV^2 [J][Ws]$
 
 コンデンサと電荷、エネルギー
 https://www.japan-ems.jp/post-10874/
+
+直列コンデンサの各コンデンサの電荷の値は同じ
+https://detail-infomation.com/capacitor-series-voltage/
+
