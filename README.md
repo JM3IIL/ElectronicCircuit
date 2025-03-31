@@ -42,7 +42,7 @@
 - [ブレッドボード](BreadBoard.md)
 - [ロジックアナライザ](LogicAnalyzer.md)
 
-- [フェライト](Ferrite)
+- [フェライト](Ferrite.md)
 
 回路設計
 - [回路設計](CircuitDesign.md)
