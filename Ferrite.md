@@ -26,10 +26,11 @@ https://solid-mater.com/entry/hsmag
 
 軟磁性体（Soft Magnets)
 飽和磁束密度と透磁率が高く、保磁力と残留磁束密度が低い
+→ヒステリシス曲線の面積狭い
 
 硬磁性体（Hard Magnets）
 飽和磁束密度、保磁力、残留磁束密度が全て高い
-
+→ヒステリシス曲線の面積広い
 
 
 
