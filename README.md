@@ -42,6 +42,8 @@
 - [ブレッドボード](BreadBoard.md)
 - [ロジックアナライザ](LogicAnalyzer.md)
 
+- [フェライト](Ferrite)
+
 回路設計
 - [回路設計](CircuitDesign.md)
 - [LTspice](LTspice.md)
