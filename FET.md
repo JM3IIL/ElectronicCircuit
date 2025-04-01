@@ -7,6 +7,7 @@ FET
 |MOS型|デプレッション型||
 ||エンハンスメント型||
 
+MONOWEB 電界効果トランジスタ(FET)
 https://d-engineer.com/electric/denkai.html
 
 https://electronic-circuit.com/mosfet-read-symbol/
