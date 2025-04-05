@@ -30,4 +30,11 @@ https://www.ti.com/jp/lit/ds/symlink/tl431.pdf
 TA48033S
 https://araisun.com/how-to-use-3-terminal-regulator.html
 
+2SK4017
+
+http://edu.net.c.dendai.ac.jp/micom/2018/motor/
+
+1N4007
+
+
 
