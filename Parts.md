@@ -24,6 +24,8 @@ https://www.marutsu.co.jp/pc/i/2583108/
 7805
 
 TL431
+TL431、TL432 プログラム可能な高精度基準電圧 datasheet (Rev. S)
+https://www.ti.com/jp/lit/ds/symlink/tl431.pdf
 
 TA48033S
 https://araisun.com/how-to-use-3-terminal-regulator.html
