@@ -5,6 +5,14 @@
 東芝デバイス&ストレージ
 https://toshiba.semicon-storage.com/jp/semiconductor/knowledge/e-learning/micro-intro/chapter1/digital-value.html
 
+加算回路
+
+フリップフロップ回路
+- RSフリップフロップ
+- Tフリップフロップ
+- Dフリップフロップ
+- JKフリップフロップ
+
 ## デジタル回路
 
 ## デジタル変調
