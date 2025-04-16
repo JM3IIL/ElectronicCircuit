@@ -5,6 +5,9 @@
 東芝デバイス&ストレージ
 https://toshiba.semicon-storage.com/jp/semiconductor/knowledge/e-learning/micro-intro/chapter1/digital-value.html
 
+日本電気技術者協会「フリップフロップとカウンタ」
+http://www.jeea.or.jp/course/contents/12115/
+
 加算回路
 
 フリップフロップ回路
