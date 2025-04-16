@@ -2,6 +2,8 @@
 
 ## 論理回路
 
+東芝デバイス&ストレージ
+https://toshiba.semicon-storage.com/jp/semiconductor/knowledge/e-learning/micro-intro/chapter1/digital-value.html
 
 ## デジタル回路
 
