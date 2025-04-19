@@ -40,6 +40,7 @@
 - [共振回路](ResonantCircuit.md)
 
 - [デジタル回路](007_DigitalCircuit.md)
+- [PLL回路](PLL.md)
 
 - [はんだ](Solder.md)
 - [ブレッドボード](BreadBoard.md)
