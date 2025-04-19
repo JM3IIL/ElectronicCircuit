@@ -40,7 +40,7 @@
 - [共振回路](ResonantCircuit.md)
 
 - [デジタル回路](007_DigitalCircuit.md)
-- [VOC回路](VOC.md)
+- [VCO回路](VCO.md)
 - [PLL回路](PLL.md)
 
 - [はんだ](Solder.md)
