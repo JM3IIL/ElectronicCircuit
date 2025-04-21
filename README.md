@@ -38,6 +38,8 @@
 - [オペアンプ](OperationalAmplifier.md)
 - [等価回路](EquivalentCircuit.md)
 - [共振回路](ResonantCircuit.md)
+- [倍電圧整流回路](VoltageMultiplierCircuit.md)
+  
 
 - [デジタル回路](007_DigitalCircuit.md)
 - [VCO回路](VCO.md)
