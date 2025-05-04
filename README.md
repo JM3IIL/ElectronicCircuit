@@ -36,6 +36,7 @@
 - [電力増幅回路](PowerAmplifierCircuit.md)
 - [発振回路](OscillationCircuit.md)
 - [ハートレー発振回路](HartleyOscillator.md)
+- [コルピッツ発振回路](ColpittsOscillator.md)
 - [オペアンプ](OperationalAmplifier.md)
 - [等価回路](EquivalentCircuit.md)
 - [共振回路](ResonantCircuit.md)
