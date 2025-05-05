@@ -1,5 +1,8 @@
 # 共振回路
 
+http://www.gxk.jp/elec/musen/1ama/H16/html/H1608A05_.html
+http://take103.blog.fc2.com/blog-entry-86.html
+
 ## LC回路
 - コイル : L [H]
 - コンデンサ : C [F]
@@ -22,3 +25,16 @@ https://ja.wikipedia.org/wiki/LC%E5%9B%9E%E8%B7%AF
 https://hegtel.com/chokuretsu-kyoshin-kairo.html
 並列共振
 https://hegtel.com/heiretsu-kyoshin-kairo.html
+
+
+## 直列共振回路
+
+- インピーダンス : Z [Ω]
+
+$Z = R +j(X_L + X_C) = R + j(ωL - \frac{1}{ωC})$
+$Q = \frac{ωL}{R} = \frac{1}{ωCR}
+
+## 並列共振回路
+
+
+$Q = \frac{R}{ωL} = ωCR
