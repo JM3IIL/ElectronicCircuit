@@ -13,6 +13,7 @@
 - [半導体](005_Semiconductor.md)
 - [トランジスタ](Transistor.md)
 - [FET](FET.md)
+- [ショットキー バリア ダイオード](SBD.md)
 
 部品
 - [コイル](Inductor.md)
