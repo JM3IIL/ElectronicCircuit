@@ -13,8 +13,11 @@
 - [半導体](005_Semiconductor.md)
 - [トランジスタ](Transistor.md)
 - [FET](FET.md)
+
+部品
 - [コイル](Inductor.md)
 - [コンデンサ](Capacitor.md)
+- [セラミック発振子](CeramicResonator.md)
 
 交流
 - [正弦波交流](004_SineWaveAlternatingCurrent.md)
