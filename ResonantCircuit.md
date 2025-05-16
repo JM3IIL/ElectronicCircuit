@@ -23,6 +23,9 @@ https://ja.wikipedia.org/wiki/LC%E5%9B%9E%E8%B7%AF
 
 直列共振
 https://hegtel.com/chokuretsu-kyoshin-kairo.html
+
+https://detail-infomation.com/rlc-series-resonant-circuit-quality-factor/
+
 並列共振
 https://hegtel.com/heiretsu-kyoshin-kairo.html
 
