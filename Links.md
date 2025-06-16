@@ -1,4 +1,8 @@
 # 参考
+
+## 電気回路講義資料
+https://www.ecei.tohoku.ac.jp/yamada/Lecture/yamada/Denkikairo2009.htm
+
 ## 計測
 計測
 マルチメーターを使いこなす 
