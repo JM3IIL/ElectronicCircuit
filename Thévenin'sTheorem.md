@@ -8,7 +8,7 @@
 
 
 
-$I_L = \frac{1}{R_th + R_L}V_th}$
+$I_L = \frac{1}{R_th + R_L}V_th$
 
 $V_L = \frac{R_L}{R_th + R_L}V_th$
 
