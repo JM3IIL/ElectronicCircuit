@@ -17,3 +17,5 @@ https://detail-infomation.com/thevenins-theorem/
 
 https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%96%E3%83%8A%E3%83%B3%E3%81%AE%E5%AE%9A%E7%90%86
 
+第一級アマチュア無線技士「無線工学」試験問題 令和6年(2024年)4月 A-3
+
