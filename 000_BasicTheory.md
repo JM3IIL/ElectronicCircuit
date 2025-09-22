@@ -30,8 +30,8 @@ $$V_{R} = IR [V] , V_{L} = IX_{L} [V]$$
 
 電圧 $V = \sqrt{{V_{R}}^{2} + {V_{L}}^{2}}$ [V]
 インピーダンス $Z = \sqrt{R^{2} + {X_{L}}^{2}}$ [Ω]
-電流 $I = \frac{V}{Z} = \frac{V}{\sqrt{{V_{R}}^{2} + {V_{L}}^{2}}}$ [A] 
-力率 $cos θ = \frac{R}{Z} = \frac{R}{\sqrt{{V_{R}}^{2} + {V_{L}}^{2}}}$ 
+電流 $I = \frac{V}{Z} = \frac{V}{\sqrt{R^{2} + {X_{L}}^{2}}}$ [A] 
+力率 $cos θ = \frac{R}{Z} = \frac{R}{\sqrt{R^{2} + {X_{L}}^{2}}}$ 
 電力 $P= VI cos θ$ [W] 
 
 https://detail-infomation.com/rl-series-circuit-impedance/
