@@ -8,7 +8,7 @@
 
 https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AB%E3%83%92%E3%83%9B%E3%83%83%E3%83%95%E3%81%AE%E6%B3%95%E5%89%87_(%E9%9B%BB%E6%B0%97%E5%9B%9E%E8%B7%AF)
 
-
+https://techweb.rohm.co.jp/product/circuit-design/electric-circuit-design/21777/
 
 第一級アマチュア無線技士「無線工学」試験問題 令和6年(2024年)4月 A-3
 
