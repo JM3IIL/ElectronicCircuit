@@ -12,3 +12,5 @@ https://techweb.rohm.co.jp/product/circuit-design/electric-circuit-design/21777/
 
 第一級アマチュア無線技士「無線工学」試験問題 令和6年(2024年)4月 A-3
 
+第二法則が有用
+
