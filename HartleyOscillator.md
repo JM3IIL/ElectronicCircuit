@@ -1,4 +1,6 @@
 # ハートレー発振回路
+コイル2個、コンデンサ1個
+
 
 http://www.gxk.jp/elec/musen/1ama/H13/html/H1312A08_.html
 
