@@ -9,6 +9,8 @@ https://denjoforest.com/power-amplifier-circuit
 A級、B級、C級、D級アンプの違い 2021-09-14
 https://analogista.jp/amp-difference/
 
+A級:歪まない、非効率
+C級:歪む、高効率
 
 ## A級増幅
 
