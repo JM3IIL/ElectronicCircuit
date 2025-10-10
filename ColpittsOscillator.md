@@ -1,4 +1,5 @@
 # コルピッツ発振回路
+コンデンサ2個、コイル１個
 
 https://cc.cqpub.co.jp/system/contents/1517/
 
