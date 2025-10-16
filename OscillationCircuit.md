@@ -24,4 +24,6 @@ LC発振回路
 - ピアースBE
 - 無調整
 
+## リファレンスデザイン
+https://www.ndk.com/jp/products/info/post_15.html
 
