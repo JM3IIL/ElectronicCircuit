@@ -23,6 +23,8 @@ LC発振回路
 - ピアースBC
 - ピアースBE
 - 無調整
+https://jg3adq.a.la9.jp/xosc.htm
+https://makitan.hatenablog.jp/entry/2023/04/15/224705
 
 ## リファレンスデザイン
 https://www.ndk.com/jp/products/info/post_15.html
