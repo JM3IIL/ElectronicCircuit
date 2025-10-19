@@ -1,8 +1,10 @@
 # 部品
 ## トランジスタ
 2SC1815
+https://akizukidenshi.com/catalog/g/g117089/
 
 2SA1015
+https://akizukidenshi.com/catalog/g/g117091/
 
 ## IC
 NE555
