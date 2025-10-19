@@ -1,4 +1,8 @@
 # コンデンサとコイル
+[コンデンサ](Capacitor.md)
+[交流コンデンサ](AC_Capacitor.md)
+[コイル](Inductor.md)
+[交流コイル](AC_Inductor.md)
 
 ## コンデンサ
 
