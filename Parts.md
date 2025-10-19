@@ -69,7 +69,7 @@ E-103　定電流ダイオード(10mA)
 https://akizukidenshi.com/catalog/g/g100185/
 
 ## リセッタブルフューズ
-
+MF-R010
 https://akizukidenshi.com/catalog/g/g112911/
 
 
