@@ -19,6 +19,7 @@
 - [コイル](Inductor.md)
 - [コンデンサ](Capacitor.md)
 - [セラミック発振子](CeramicResonator.md)
+- [トランス](Transformer.md)
 
 交流
 - [正弦波交流](004_SineWaveAlternatingCurrent.md)
@@ -56,6 +57,7 @@
 - [ロジックアナライザ](LogicAnalyzer.md)
 
 - [フェライト](Ferrite.md)
+- [パーツ](Parts.md)
 
 回路設計
 - [回路設計](CircuitDesign.md)
