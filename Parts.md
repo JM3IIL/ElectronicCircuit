@@ -62,7 +62,29 @@ https://akizukidenshi.com/catalog/g/g107554/
 
 
 ## ダイオード
-1N4007
+1N4007 1KV1A
 https://akizukidenshi.com/catalog/g/g100934/
 
+E-103　定電流ダイオード(10mA)
+https://akizukidenshi.com/catalog/g/g100185/
+
+## リセッタブルフューズ
+
+https://akizukidenshi.com/catalog/g/g112911/
+
+
+## コンデンサ
+0.1μF
+RDER71H104K0P1H03B
+https://akizukidenshi.com/catalog/g/g113582/
+
+## インダクタ
+100μH
+AL0307-101K
+https://akizukidenshi.com/catalog/g/g103966/
+
+## トロイダルコイル
+100μH
+TCV-101M-3A-5026
+https://akizukidenshi.com/catalog/g/g113380/
 
