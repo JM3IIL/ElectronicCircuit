@@ -14,3 +14,5 @@ https://techweb.rohm.co.jp/product/circuit-design/electric-circuit-design/21777/
 
 第二法則が有用
 
+https://techweb.rohm.co.jp/product/circuit-design/electric-circuit-design/21777/
+
