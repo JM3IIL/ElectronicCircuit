@@ -16,6 +16,7 @@
 - [ショットキー バリア ダイオード](SBD.md)
 
 部品
+- [抵抗](Resistor.md)
 - [コイル](Inductor.md)
 - [コンデンサ](Capacitor.md)
 - [セラミック発振子](CeramicResonator.md)
