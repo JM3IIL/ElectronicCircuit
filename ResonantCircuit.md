@@ -8,12 +8,12 @@ http://take103.blog.fc2.com/blog-entry-86.html
 - コンデンサ : C [F]
 
 直列共振条件
-$2πfL = \frac{1}{2πfC}$
+- $2πfL = \frac{1}{2πfC}$
 並列共振条件
-$\frac{1}{2πfL} = 2πfC$
+- $\frac{1}{2πfL} = 2πfC$
 
 共振周波数
-$f = \frac{1}{2\pi\sqrt{LC}} [Hz]$
+- $f = \frac{1}{2\pi\sqrt{LC}} [Hz]$
 
 ROHM Tech WEB : 共振回路：共振周波数の計算方法、Q値の求め方を解説 (2024-06-28)
 https://techweb.rohm.co.jp/product/power-device/si/18332/
@@ -34,8 +34,11 @@ https://hegtel.com/heiretsu-kyoshin-kairo.html
 
 - インピーダンス : Z [Ω]
 
-$Z = R +j(X_L + X_C) = R + j(ωL - \frac{1}{ωC})$
+$Z = R + j(X_L + X_C) = R + j(ωL - \frac{1}{ωC})$
 $Q = \frac{ωL}{R} = \frac{1}{ωCR}
+
+共振時には、LC部の電圧は0になり、Rの電圧は電源電圧と同じになる。
+https://ameblo.jp/ja8rqd/entry-12878248724.html
 
 ## 並列共振回路
 
