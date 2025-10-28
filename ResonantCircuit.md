@@ -44,6 +44,6 @@ https://ameblo.jp/ja8rqd/entry-12878248724.html
 
 - インピーダンス : Z [Ω]
 
-$Z = \frac{1}{\frac{1}{R} + \frac{1}{j}(\frac{1}{X_L} + \frac{1}{X_C})} = \frac{1}{\frac{1}{R} + \frac{1}{j}(\frac{1}{ωL} - ωC)$
+$Z = \frac{1}{\frac{1}{R} + \frac{1}{j}(\frac{1}{X_L} + \frac{1}{X_C})} = \frac{1}{\frac{1}{R} + \frac{1}{j}(\frac{1}{ωL} - ωC)}$
 $Q = \frac{R}{ωL} = ωCR$
 
