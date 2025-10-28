@@ -35,7 +35,7 @@ https://hegtel.com/heiretsu-kyoshin-kairo.html
 - インピーダンス : Z [Ω]
 
 $Z = R + j(X_L + X_C) = R + j(ωL - \frac{1}{ωC})$
-$Q = \frac{ωL}{R} = \frac{1}{ωCR}
+$Q = \frac{ωL}{R} = \frac{1}{ωCR}$
 
 共振時には、LC部の電圧は0になり、Rの電圧は電源電圧と同じになる。
 https://ameblo.jp/ja8rqd/entry-12878248724.html
@@ -43,4 +43,5 @@ https://ameblo.jp/ja8rqd/entry-12878248724.html
 ## 並列共振回路
 
 
-$Q = \frac{R}{ωL} = ωCR
+$Q = \frac{R}{ωL} = ωCR$
+
