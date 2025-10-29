@@ -37,7 +37,7 @@ https://hegtel.com/heiretsu-kyoshin-kairo.html
 $Z = R + j(X_L + X_C) = R + j(ωL - \frac{1}{ωC})$
 $Q = \frac{ωL}{R} = \frac{1}{ωCR}$
 
-共振時には、LC部の電圧は0になり、Rの電圧は電源電圧と同じになる。
+共振時には、$(ωL - \frac{1}{ωC})$ 部分が0なので、LC部の電圧は0になり、Rの電圧は電源電圧と同じになる。
 https://ameblo.jp/ja8rqd/entry-12878248724.html
 
 ## 並列共振回路
@@ -46,4 +46,6 @@ https://ameblo.jp/ja8rqd/entry-12878248724.html
 
 $Z = \frac{1}{\frac{1}{R} + \frac{1}{j}(\frac{1}{X_L} + \frac{1}{X_C})} = \frac{1}{\frac{1}{R} + \frac{1}{j}(\frac{1}{ωL} - ωC)}$
 $Q = \frac{R}{ωL} = ωCR$
+
+共振時には、$(\frac{1}{ωL} - ωC)$ 部分が0なので、LC部の電圧は0になり、Rの電圧は電源電圧と同じになる。
 
