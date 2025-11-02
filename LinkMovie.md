@@ -20,7 +20,7 @@ https://m.youtube.com/watch?v=4v24Sp_tuSk
 
 https://m.youtube.com/watch?v=241kHgzklT4
 
-https://m.youtube.com/watch?v=k1LpGP-E9BI
+
 
 電気工事
 https://m.youtube.com/watch?v=j7ShAxHiXwE
