@@ -73,9 +73,11 @@ https://ja.wikipedia.org/wiki/E-B%E5%AF%BE%E5%BF%9C%E3%81%A8E-H%E5%AF%BE%E5%BF%9
 ## 和動接続・差動接続
 https://denken-ou.com/rironh29-3/
 https://jeea.or.jp/course/contents/01157/
-
+https://detail-infomation.com/mutual-inductance/
+http://www.gxk.jp/elec/musen/1ama/H30/html/H3004A03_.html
 
 環状ソレノイド(トロイダル)
+- 結合係数(磁束の漏れがない場合=1)：$k 0 <= k <= 1$
 - 自己インダクタンス : $L = \frac{kμS N^2}{l}$
 - 相互インダクタンス : $M = ±k \sqrt{L_A L_B}$
 - 合成インダクタンス : $H = L_A + L_B ± 2M$
