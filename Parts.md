@@ -29,8 +29,9 @@ https://www.marutsu.co.jp/pc/i/2583108/
 
 https://akizukidenshi.com/catalog/g/g115314/
 
-
-
+TDA2822M
+https://www.st.com/resource/en/datasheet/cd00000134.pdf
+https://akizukidenshi.com/catalog/g/g109720/
 
 ## MOSFET
 2SK4017
