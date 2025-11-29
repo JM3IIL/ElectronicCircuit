@@ -36,3 +36,7 @@ https://www.elekit.co.jp/product/docs/Arduino%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A
 
 株式会社アールティ「Pi:Co Classic3 ソフトウェア解説マニュアル (Arduino編) 」
 https://downloads.rt-shop.jp/PC3-ESP32/sample/PiCoClassic3_arduino_software_manual_sample_1.0.pdf
+
+## DHT22
+https://zenn.dev/suzuky/articles/25dab74334e6ff
+
