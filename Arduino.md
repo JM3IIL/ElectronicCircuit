@@ -40,6 +40,9 @@ https://downloads.rt-shop.jp/PC3-ESP32/sample/PiCoClassic3_arduino_software_manu
 ## DHT22
 https://zenn.dev/suzuky/articles/25dab74334e6ff
 
+##　SDカード
+https://dreamerdream.hateblo.jp/entry/2022/05/12/170000
+
 ## FreeRTOS
 Library / FreeRTOS (MIT License : V11.1.0-3 : Richard Barry : 2024-09-30)
 https://docs.arduino.cc/libraries/freertos/
