@@ -40,3 +40,15 @@ https://downloads.rt-shop.jp/PC3-ESP32/sample/PiCoClassic3_arduino_software_manu
 ## DHT22
 https://zenn.dev/suzuky/articles/25dab74334e6ff
 
+## FreeRTOS
+Library / FreeRTOS (MIT License : V11.1.0-3 : Richard Barry : 2024-09-30)
+https://docs.arduino.cc/libraries/freertos/
+
+ArduinoでFreeRTOSを使ってみる(1) 一番単純なプログラム (2020-10-19)
+https://qiita.com/ikenohotori/items/8c6285812bc4177c2564
+
+Arduino Uno Rev3にFreeRTOSのインストールしてLチカも試す (2021-02-20)
+https://geek.tacoskingdom.com/blog/23
+
+FreeRTOSに、Arduinoで入門してみた。 (2021-03-11)
+https://qiita.com/kohey0701/items/3797096f9d43f9eb33e9
