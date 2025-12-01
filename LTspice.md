@@ -14,3 +14,6 @@ https://www.circuitlab.com/
 LTspice の使い方
 https://qiita.com/exabugs/items/5bfb3a575ce05bb6cbde
 
+https://toragi.cqpub.co.jp/Portals/0/backnumber/2013/05/p120.pdf
+
+
