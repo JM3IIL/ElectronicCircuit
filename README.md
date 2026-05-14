@@ -68,6 +68,7 @@
 - [電気工事士](Electrician.md)
 - [Arduino](Arduino.md)
 - [リンク](Links.md)
+- [電子工作サンプル](ErectronicSample.md)
 - [動画リンク](LinkMovie.md)
 - [その他](Misc.md)
 
