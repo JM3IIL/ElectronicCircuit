@@ -1,5 +1,6 @@
 # ESP32
 
+[Freenove Tutorial](https://freenove.com/tutorial)
 
 ## ESP32 CAM
 超入門ESP32でカメラを使う方法 <えぬでんき> (2025-01-09)
