@@ -12,6 +12,9 @@ https://note.com/ndenki/n/n620c4f89952a
 Freenove ESP32-S3-WROOM CAMボード【FNK0085】を試してみました【Arduino使用】<あろっち> (2026-06-26)
 https://aloseed.com/it/esp32-s3-wroom-cam/
 
+庭とか野原に置きっぱなしにできるマイコン用給電システム(ありもので作ってみた) <みは> (2022-07-24)
+https://ameblo.jp/fc2miha/entry-12833773050.html
+
 [FNK0060	Freenove ESP32-WROVER Board](https://docs.freenove.com/projects/fnk0060/en/latest/)
 
 
