@@ -12,3 +12,8 @@ https://note.com/ndenki/n/n620c4f89952a
 https://aloseed.com/it/esp32-s3-wroom-cam/
 
 [FNK0060	Freenove ESP32-WROVER Board](https://docs.freenove.com/projects/fnk0060/en/latest/)
+
+
+技術基準適合証明等を受けた機器の検索
+https://www.tele.soumu.go.jp/j/giteki/navi/index.htm
+
