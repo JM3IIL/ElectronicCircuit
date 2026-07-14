@@ -21,3 +21,15 @@ https://ameblo.jp/fc2miha/entry-12833773050.html
 技術基準適合証明等を受けた機器の検索
 https://www.tele.soumu.go.jp/j/giteki/navi/index.htm
 
+## 温湿度データロガー
+IoT その5(温湿度センサーのデータをESP32のWi-Fi経由でGoogleスプレッドシートへ送信して記録する) (2023-08-17)
+https://zenn.dev/suzuky/articles/6ad0cb1a54823f
+
+ESP32でIoT機器を作成してみた(温度ロガー) (2023-07-04)
+https://qiita.com/taka_so/items/21000109ec180da8e440
+
+ESP32とDHT11で省電力IoT温湿度ロガーを自作！Googleスプレッドシート連携&Deep Sleepで長期間記録 (2025-06-15)
+https://tomoddd.hatenablog.com/entry/2025/06/15/215037
+
+ESP32-DevKitCとBME280で測った温湿度・気圧データをTera Termのログに記録、EXCELでグラフ化：環境モニタ(3) (2021-12-06)
+https://yokahiyori.com/esp32_bme280_data_logger/
