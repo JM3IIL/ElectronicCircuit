@@ -33,3 +33,7 @@ https://tomoddd.hatenablog.com/entry/2025/06/15/215037
 
 ESP32-DevKitCとBME280で測った温湿度・気圧データをTera Termのログに記録、EXCELでグラフ化：環境モニタ(3) (2021-12-06)
 https://yokahiyori.com/esp32_bme280_data_logger/
+
+# 気圧センサ
+https://philkitty.blog.fc2.com/blog-entry-300.html?sp
+
