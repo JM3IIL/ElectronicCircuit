@@ -38,9 +38,14 @@ https://yokahiyori.com/esp32_bme280_data_logger/
 【ESP32】BMP180 気圧センサ(気温センサ内蔵)
 https://philkitty.blog.fc2.com/blog-entry-300.html?sp
 
-#　電圧・電流自己測定
+# 電圧・電流自己測定
 
 https://kghr.blog.fc2.com/blog-entry-135.html
 
 https://www.mgo-tec.com/blog-entry-esp-wroom-32-current-part2.html
+
+# 電源
+https://qiita.com/denden888/items/75fb60b47563b93a1c4b
+
+
 
