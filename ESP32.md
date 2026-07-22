@@ -45,6 +45,7 @@ https://kghr.blog.fc2.com/blog-entry-135.html
 https://www.mgo-tec.com/blog-entry-esp-wroom-32-current-part2.html
 
 # 電源
+【ESP32】乾電池駆動を目指したDeepSleep実験備忘録 (2026-01-02)
 https://qiita.com/denden888/items/75fb60b47563b93a1c4b
 
 
