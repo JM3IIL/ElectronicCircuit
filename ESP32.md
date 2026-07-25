@@ -34,18 +34,18 @@ https://tomoddd.hatenablog.com/entry/2025/06/15/215037
 ESP32-DevKitCとBME280で測った温湿度・気圧データをTera Termのログに記録、EXCELでグラフ化：環境モニタ(3) (2021-12-06)
 https://yokahiyori.com/esp32_bme280_data_logger/
 
-# 気圧センサ
+## 気圧センサ
 【ESP32】BMP180 気圧センサ(気温センサ内蔵) (2025-01-12)
 https://philkitty.blog.fc2.com/blog-entry-300.html?sp
 
-# 電圧・電流自己測定
+## 電圧・電流自己測定
 省電力でESP32の電源電圧を自己計測してみた (2018-10-12)
 https://kghr.blog.fc2.com/blog-entry-135.html
 
 ESP-WROOM-32(ESP32)の電流測定 その2 (2017-02-28)
 https://www.mgo-tec.com/blog-entry-esp-wroom-32-current-part2.html
 
-# 電源
+## 電源
 【ESP32】乾電池駆動を目指したDeepSleep実験備忘録 (2026-01-02)
 https://qiita.com/denden888/items/75fb60b47563b93a1c4b
 
