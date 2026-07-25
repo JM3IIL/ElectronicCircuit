@@ -35,7 +35,7 @@ ESP32-DevKitCとBME280で測った温湿度・気圧データをTera Termのロ�
 https://yokahiyori.com/esp32_bme280_data_logger/
 
 # 気圧センサ
-【ESP32】BMP180 気圧センサ(気温センサ内蔵)
+【ESP32】BMP180 気圧センサ(気温センサ内蔵) (2025-01-12)
 https://philkitty.blog.fc2.com/blog-entry-300.html?sp
 
 # 電圧・電流自己測定
