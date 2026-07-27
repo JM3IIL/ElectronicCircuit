@@ -38,6 +38,11 @@ https://yokahiyori.com/esp32_bme280_data_logger/
 【ESP32】BMP180 気圧センサ(気温センサ内蔵) (2025-01-12)
 https://philkitty.blog.fc2.com/blog-entry-300.html?sp
 
+
+## CO2センサ
+【ESP32】MH-Z19CセンサでCO2濃度を測定する (2022-05-21)
+https://araisun.com/esp32-co2-mhz19c/
+
 ## 電圧・電流自己測定
 省電力でESP32の電源電圧を自己計測してみた (2018-10-12)
 https://kghr.blog.fc2.com/blog-entry-135.html
