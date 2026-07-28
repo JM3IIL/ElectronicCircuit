@@ -34,6 +34,15 @@ https://tomoddd.hatenablog.com/entry/2025/06/15/215037
 ESP32-DevKitCとBME280で測った温湿度・気圧データをTera Termのログに記録、EXCELでグラフ化：環境モニタ(3) (2021-12-06)
 https://yokahiyori.com/esp32_bme280_data_logger/
 
+温湿度センサー モジュール DHT11 (2026-07-28 \580-)
+https://akizukidenshi.com/catalog/g/g107003/
+
+BME280使用 温湿度・気圧センサーモジュールキット (2026-07-28 \1,380-)
+https://akizukidenshi.com/catalog/g/g109421/
+
+High Accuracy RTC(DS3231) (2026-07-28 \1,680-)
+https://akizukidenshi.com/catalog/g/g116774/
+
 ## 気圧センサ
 【ESP32】BMP180 気圧センサ(気温センサ内蔵) (2025-01-12)
 https://philkitty.blog.fc2.com/blog-entry-300.html?sp
