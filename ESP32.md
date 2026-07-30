@@ -57,6 +57,11 @@ https://araisun.com/esp32-co2-mhz19c/
 CO2センサーモジュール MH-Z19C (2026-07-27 \4,580-)
 https://akizukidenshi.com/catalog/g/g116142/
 
+
+### 加速センサ
+3軸加速度センサーモジュール KXR94-2050 (2026-07-30 \850-)
+https://akizukidenshi.com/catalog/g/g105153/
+
 ## 電圧・電流自己測定
 省電力でESP32の電源電圧を自己計測してみた (2018-10-12)
 https://kghr.blog.fc2.com/blog-entry-135.html
