@@ -61,6 +61,8 @@ https://akizukidenshi.com/catalog/g/g116142/
 ### 加速センサ
 3軸加速度センサーモジュール KXR94-2050 (2026-07-30 \850-)
 https://akizukidenshi.com/catalog/g/g105153/
+小型圧電振動ジャイロモジュール(ジャイロスター 102759) (2026-07-30 \400-)
+https://akizukidenshi.com/catalog/g/g104912/
 
 ## 電圧・電流自己測定
 省電力でESP32の電源電圧を自己計測してみた (2018-10-12)
