@@ -57,6 +57,8 @@ https://araisun.com/esp32-co2-mhz19c/
 CO2センサーモジュール MH-Z19C (2026-07-27 \4,580-)
 https://akizukidenshi.com/catalog/g/g116142/
 
+ESP32(M5Stack)で作る、安価なCO2モニタ【秋月でCO2センサ取扱開始 記念】(2025-02-21)
+https://qiita.com/nara256/items/a3cecc5fbf043b2d042c
 
 ### 加速センサ
 3軸加速度センサーモジュール KXR94-2050 (2026-07-30 \850-)
