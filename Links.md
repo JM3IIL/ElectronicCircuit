@@ -40,3 +40,9 @@ nanoVNA-H4
 ネットワーク・アナライザ (高周波回路)
 https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%8A%E3%83%A9%E3%82%A4%E3%82%B6_(%E9%AB%98%E5%91%A8%E6%B3%A2%E5%9B%9E%E8%B7%AF)
 
+電源は電解コン総取っ換えだけでは直らない！　―― パワコンの修理（1）(2021-04-20)
+https://edn.itmedia.co.jp/edn/spv/2104/20/news042.html
+
+
+
+
