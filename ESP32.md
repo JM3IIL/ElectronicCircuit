@@ -60,6 +60,10 @@ https://akizukidenshi.com/catalog/g/g116142/
 ESP32(M5Stack)で作る、安価なCO2モニタ【秋月でCO2センサ取扱開始 記念】(2025-02-21)
 https://qiita.com/nara256/items/a3cecc5fbf043b2d042c
 
+# 距離センサ
+超音波距離センサー HC-SR04 (2026-08-15 ¥300-)
+https://akizukidenshi.com/catalog/g/g111009/
+
 ### 加速センサ
 3軸加速度センサーモジュール KXR94-2050 (2026-07-30 \850-)
 https://akizukidenshi.com/catalog/g/g105153/
