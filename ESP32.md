@@ -71,6 +71,8 @@ https://akizukidenshi.com/catalog/g/g102325/
 GY-302 BH1750光強度照明モジュール (2026-08-17 \499-)
 https://www.amazon.co.jp/dp/B01M9EVG0N
 
+## 音響センサ
+KY-038 / LM393
 
 ## 加速センサ
 3軸加速度センサーモジュール KXR94-2050 (2026-07-30 \850-)
