@@ -74,6 +74,9 @@ https://www.amazon.co.jp/dp/B01M9EVG0N
 ## 音響センサ
 KY-038 / LM393
 
+2回路入コンパレーター LM393GN (2026-08-17 ¥300-)
+https://akizukidenshi.com/catalog/g/g116987/
+
 ## 加速センサ
 3軸加速度センサーモジュール KXR94-2050 (2026-07-30 \850-)
 https://akizukidenshi.com/catalog/g/g105153/
