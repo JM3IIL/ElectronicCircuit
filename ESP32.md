@@ -77,6 +77,10 @@ KY-038 / LM393
 2回路入コンパレーター LM393GN (2026-08-17 ¥300-)
 https://akizukidenshi.com/catalog/g/g116987/
 
+KY-038 (2026-08-17 4個 ¥834-)
+https://www.amazon.co.jp/dp/B0DRP4MHVP
+
+
 ## 加速センサ
 3軸加速度センサーモジュール KXR94-2050 (2026-07-30 \850-)
 https://akizukidenshi.com/catalog/g/g105153/
