@@ -37,24 +37,24 @@ https://yokahiyori.com/esp32_bme280_data_logger/
 温湿度センサー モジュール DHT11 (2026-07-28 \580-)
 https://akizukidenshi.com/catalog/g/g107003/
 
-BME280使用 温湿度・気圧センサーモジュールキット (2026-07-28 \1,380-)
+BME280使用 温湿度・気圧センサーモジュールキット (2026-07-28 ¥1,380-)
 https://akizukidenshi.com/catalog/g/g109421/
 
-High Accuracy RTC(DS3231) (2026-07-28 \1,680-)
+High Accuracy RTC(DS3231) (2026-07-28  ¥1,680-)
 https://akizukidenshi.com/catalog/g/g116774/
 
 ## 気圧センサ
 【ESP32】BMP180 気圧センサ(気温センサ内蔵) (2025-01-12)
 https://philkitty.blog.fc2.com/blog-entry-300.html?sp
 
-BMP180大気圧温度センサーモジュール (2026-07-27 \1,240-)
+BMP180大気圧温度センサーモジュール (2026-07-27  ¥1,240-)
 https://akizukidenshi.com/catalog/g/g112854/
 
 ## CO2センサ
 【ESP32】MH-Z19CセンサでCO2濃度を測定する (2022-05-21)
 https://araisun.com/esp32-co2-mhz19c/
 
-CO2センサーモジュール MH-Z19C (2026-07-27 \4,580-)
+CO2センサーモジュール MH-Z19C (2026-07-27 ¥4,580-)
 https://akizukidenshi.com/catalog/g/g116142/
 
 ESP32(M5Stack)で作る、安価なCO2モニタ【秋月でCO2センサ取扱開始 記念】(2025-02-21)
@@ -68,7 +68,7 @@ https://akizukidenshi.com/catalog/g/g111009/
 照度センサー(フォトトランジスター) 560nm NJL7502L (2026-08-16 ¥110-)
 https://akizukidenshi.com/catalog/g/g102325/
 
-GY-302 BH1750光強度照明モジュール (2026-08-17 \499-)
+GY-302 BH1750光強度照明モジュール (2026-08-17 ¥499-)
 https://www.amazon.co.jp/dp/B01M9EVG0N
 
 ## 音響センサ
