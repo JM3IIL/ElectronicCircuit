@@ -64,6 +64,9 @@ https://qiita.com/nara256/items/a3cecc5fbf043b2d042c
 超音波距離センサー HC-SR04 (2026-08-15 ¥300-)
 https://akizukidenshi.com/catalog/g/g111009/
 
+## 人感センサ
+焦電センサー HC-SR501 
+
 ## 照度センサー
 照度センサー(フォトトランジスター) 560nm NJL7502L (2026-08-16 ¥110-)
 https://akizukidenshi.com/catalog/g/g102325/
